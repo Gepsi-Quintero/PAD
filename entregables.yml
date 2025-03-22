@@ -37,6 +37,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Entregas actividad 1 , 2 y 3
-          commit_user_name: Andres Callejas [GitHub Actions]
-          commit_user_email: andres.callejas@iudigital.edu.co
-          commit_author: Andres Callejas <andres.callejas@iudigital.edu.co>
+          commit_user_name: Gepsi Quintero [GitHub Actions]
+          commit_user_email: gepsi.quintero@iudigital.edu.co
+          commit_author: Gepsi Quintero <gepsi.quintero@iudigital.edu.co>
